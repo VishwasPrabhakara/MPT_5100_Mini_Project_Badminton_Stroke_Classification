@@ -1,5 +1,6 @@
 # MPT_5100_Mini_Project_Badminton_Stroke_Classification
-![image](https://github.com/VishwasPrabhakara/MPT_5100_Mini_Project_Badminton_Stroke_Classification/assets/87774561/8faaa207-88b1-43da-b96d-08d84c715eb3)
+
+![Project_Poster-1](https://github.com/VishwasPrabhakara/MPT_5100_Mini_Project_Badminton_Stroke_Classification/assets/87774561/7b4cc9ad-2157-4ffe-9880-c0281fa55e85)
 
 
 # Edge Impulse library for Badminton_Stroke_Classification
